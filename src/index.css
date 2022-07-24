@@ -87,7 +87,9 @@ img{
   background-color: rgba(0, 0, 0, 0.9);
   color: white;
   font-size: 50px ;
-  display: none;
+  display: flex;
+  left: 0;
+  /* display: none; */
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -102,7 +104,13 @@ img{
   background-color: var(--yellow);
   border: none;
   border-radius: 10px;
-  margin-top: 10px;
+  margin-top: 35px;
+  color: black;
+  transition-duration: 1s;
+}
+#restart:hover, #restart:focus{
+  transform: scale(1.1, 1.1);
+  color: rgba(0, 0, 0, 0.76);
 }
 #gameBoard{
   max-width: 700px;
