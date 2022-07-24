@@ -6,7 +6,7 @@ export default function GameBoard(props) {
   return (
     <div id='gameBoard'>
       {props.cards.map((card, index) => {
-        return <CardElement key={index} card={card}/>
+        return <CardElement handleFlip={props.handleFlip} key={index} card={card}/>
       })}
     </div>
   )
