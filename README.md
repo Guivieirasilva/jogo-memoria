@@ -12,3 +12,5 @@
 </ul>
 
 ## 🕹️ Projeto
+
+![memory](.github/memory.gif?style=flat)
