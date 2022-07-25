@@ -33,6 +33,7 @@ export function MemoryGame(){
 
   return(
     <div>
+      <h1>Jogo da Memória Tech</h1>
       <GameBoard handleFlip={handleFlip} cards={cards} />
       <GameOver handleRestart={restart} show={gameOver}/>
     </div>
