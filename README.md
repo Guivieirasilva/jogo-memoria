@@ -1,7 +1,7 @@
 # jogo da memória com React Js 🎲
 
-<p>Esse é projeto de jogo da memória que realizei a algum tempo com HTML, CSS e Javascript.</p>
-<p>Trouxe ele para o ecossistema React JS</p>
+<p>Esse é projeto de jogo da memória que realizei a um tempo atrás com HTML, CSS e Javascript.</p>
+<p>Trouxe ele para o ecossistema ReactJS para treinar a sintaxe JSX e os react-hooks</p>
 
 ## ⚙️ Ferramentas utilizadas (Stacks)
 <ul>
