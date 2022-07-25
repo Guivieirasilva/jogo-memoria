@@ -13,4 +13,4 @@
 
 ## 🕹️ Projeto
 
-![memory](.github/memory.gif?style=flat)
+![memory](https://user-images.githubusercontent.com/95317866/180849282-bfe992a7-073b-43f7-8d00-f4b164f30f6f.gif)
